@@ -1,6 +1,6 @@
 <div align="center">
     <h1>GroundLens</h1>
-    <i>Official implementation of "Towards Self-Explainable Document Visual Question Answering with Chain-of-Explanation Predictions"</i>
+    <i>GroundLens is a vision-language framework that combines visual understanding, object-level localization, and explainable reasoning to answer questions about images with transparent, evidence-grounded explanations.</i>
     <br>
 </div>
 
