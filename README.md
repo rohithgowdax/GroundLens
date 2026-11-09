@@ -16,17 +16,6 @@ Ground lens requires vision–language models to reason not only about what info
 
 This project uses an augmented version of the [DocVQA dataset](https://www.docvqa.org/) with additional annotations for question priors and answer locations. See [Dataset Setup](docs/dataset_setup.md) for more details.
 
-## Installation
-
-For detailed setup instructions, see [Environment Setup](docs/environment_setup.md).
-
-Quick start with conda:
-
-```bash
-conda env create -f environment.yml
-conda activate groundlens
-```
-
 ## Project Structure
 
 ```
