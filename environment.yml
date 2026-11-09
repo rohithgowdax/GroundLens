@@ -1,0 +1,42 @@
+name: groundlens
+channels:
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - datasets
+    - albumentations
+    - colpali_engine
+    - git+https://github.com/illuin-tech/colpali
+    - editdistance
+    - einops
+    - typed-argument-parser
+    - matplotlib
+    - accelerate
+    - python-build
+    - fsspec
+    - huggingface_hub
+    - mpmath
+    - networkx
+    - python-dotenv
+    - wandb
+    - rapidfuzz
+    - numpy
+    - pillow
+    - pyyaml
+    - scipy
+    - sympy
+    - seaborn
+    - sentencepiece
+    - tokenizers
+    - torch==2.8.0+cu129
+    - torchvision==0.23.0
+    - tqdm
+    - transformers
+    - typing-extensions
+    - pytest
+    - pytest-cov
+    - pytest-xdist

@@ -1,0 +1,1602 @@
+[
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/3581.png",
+      "question_id": 3581,
+      "question": "What is the name of the person in this document?",
+      "answer": "Mrs. Melvin Albright"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/28860.png",
+      "question_id": 28860,
+      "question": "What is the title or kind of position in State of California Dept. of Public Health?",
+      "answer": "Nutrition Consultant"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/45965.png",
+      "question_id": 45965,
+      "question": "What is the full form of AMWA?",
+      "answer": "American medical women's association"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/45928.png",
+      "question_id": 45928,
+      "question": "What is the full form of SOGC?",
+      "answer": "society of obstetricians and gynaecologists of canada"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/6457.png",
+      "question_id": 6457,
+      "question": "What is the flyer about?",
+      "answer": "WINSTON DRAG RACING Intercept Program"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/6450.png",
+      "question_id": 6450,
+      "question": "Who is the 1999 Top Fuel Winston Drag Racing Champion?",
+      "answer": "tony schumacher"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/24072.png",
+      "question_id": 24072,
+      "question": "to whom this letter was written ?",
+      "answer": "Dr. Milligan"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/24075.png",
+      "question_id": 24075,
+      "question": "to which university the Imperial college of science and technology is affiliated ??",
+      "answer": "UNIVERSITY OF LONDON"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/3752.png",
+      "question_id": 3752,
+      "question": "Name of the document",
+      "answer": "ENVIRONMENTAL INFLUENCES EFFECTING POST-SPRAY USAGE"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/4047.png",
+      "question_id": 4047,
+      "question": "what is the option for the barnyard grass weed at N.C. COLORADO district ?",
+      "answer": "Post with Betanal plus Betanal 475 with surfactant ** when grass has 2 leaves or smaller"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/51808.png",
+      "question_id": 51808,
+      "question": "What is the title of the book or periodical?",
+      "answer": "SUGAR CONSUMPTION AND HEALTH EFFECTS"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/58235.png",
+      "question_id": 58235,
+      "question": "What is the date mentioned in the document?",
+      "answer": "11 feb 83"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/60521.png",
+      "question_id": 60521,
+      "question": "in which room the growth box was placed?",
+      "answer": "cold room"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/24096.png",
+      "question_id": 24096,
+      "question": "what are the expenses towards dinner on march 25 ?",
+      "answer": "3.25"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/24097.png",
+      "question_id": 24097,
+      "question": "what are the expenses towards hotel on march 25 ?",
+      "answer": "9.50"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/2271.png",
+      "question_id": 2271,
+      "question": "What is the headline of this news?",
+      "answer": "Crop Prospects in Wyoming Improve"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/2273.png",
+      "question_id": 2273,
+      "question": "Which crops attained high yields this year as per the news?",
+      "answer": "oats, barley, spring wheat, rye and alfalfa hay"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/58551.png",
+      "question_id": 58551,
+      "question": "What title is given to \"Notes FROM CHRIS\"?",
+      "answer": "you're what we're all about!"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/17620.png",
+      "question_id": 17620,
+      "question": "What is the Title of the document?",
+      "answer": "Notes from Chris"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/36315.png",
+      "question_id": 36315,
+      "question": "in which county is Wash. Univ. Schl. of Med. at?",
+      "answer": "St. Louis"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/45393.png",
+      "question_id": 45393,
+      "question": "What is the designation of Mary L. Sague?",
+      "answer": "Professor of Chemistry and Chairman of the Dept."
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/58088.png",
+      "question_id": 58088,
+      "question": "What is the title of the document?",
+      "answer": "$1.00 off with 2-pack purchase."
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/6158.png",
+      "question_id": 6158,
+      "question": "How many number of cartons are promoted?",
+      "answer": "11,158"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/40809.png",
+      "question_id": 40809,
+      "question": "what is the name of the city mentioned in the given page ?",
+      "answer": "Olive City"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/5057.png",
+      "question_id": 5057,
+      "question": "What is written in the top of the document ?",
+      "answer": "GWS Programs developed with your help to achieve our major overall objective:"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/11288.png",
+      "question_id": 11288,
+      "question": "what is the objective?",
+      "answer": "PROVIDE SUBSTANTIAL INCENTIVE TO INCREASE SUGAR PRODUCTION"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/42834.png",
+      "question_id": 42834,
+      "question": "What is the Exhibit number?",
+      "answer": "14"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/24683.png",
+      "question_id": 24683,
+      "question": "what is the total postage and fees",
+      "answer": "98"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/49885.png",
+      "question_id": 49885,
+      "question": "What is the date mentioned in this telegram?",
+      "answer": "AUGUST 24, 1972"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/10161.png",
+      "question_id": 10161,
+      "question": "What does the list contain?",
+      "answer": "Brands Business Unit and PAC approvals that have occurred since the last PAC meeting."
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/20317.png",
+      "question_id": 20317,
+      "question": "what is the quotation written in the given page ?",
+      "answer": "\"Building a stronger industry and a better market\""
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/17969.png",
+      "question_id": 17969,
+      "question": "Who is the note addressed to?",
+      "answer": "Layten Davis"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/8805.png",
+      "question_id": 8805,
+      "question": "what is the name of employee ?",
+      "answer": "DAVID STEWART"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/24132.png",
+      "question_id": 24132,
+      "question": "Which is the member company in AUSTRALIA?",
+      "answer": "The Colonial Sugar Refining Company Limited"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/46194.png",
+      "question_id": 46194,
+      "question": "Who is the author of the paper titled 'A mini review on the biological activity of trimegestone'?",
+      "answer": "winneker rc"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/46195.png",
+      "question_id": 46195,
+      "question": "Who is the author of the paper titled 'The biological activity of trimegestone'?",
+      "answer": "winneker rc"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/46198.png",
+      "question_id": 46198,
+      "question": "Who are the authors of the article titled 'The preclinical biology of a new potent and selective progestin: trimegestone'?",
+      "answer": "winneker rc, bitran d, Zhang z"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/36237.png",
+      "question_id": 36237,
+      "question": "What type of voucher is given here?",
+      "answer": "Public Voucher for Purchases and Services Other Than Personal"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/36301.png",
+      "question_id": 36301,
+      "question": "What type of voucher is given here?",
+      "answer": "public voucher for purchases and services other than personal"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/43149.png",
+      "question_id": 43149,
+      "question": "What is plotted in the y-axis?",
+      "answer": "CARD TITLES AVAILABLE EACH YEAR"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/28853.png",
+      "question_id": 28853,
+      "question": "Which department is Dr. Robert E. Shank from?",
+      "answer": "Dept. of Preventive Medicine"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/61713.png",
+      "question_id": 61713,
+      "question": "What is the title of the document?",
+      "answer": "instructions for preparation of travel expense vouchers"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/21017.png",
+      "question_id": 21017,
+      "question": "What was discussed at 2.00-2:45?",
+      "answer": "Critique of Press Conference and Plans for the Food and Nutrition press Information Service"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/23851.png",
+      "question_id": 23851,
+      "question": "When was the letter hand-delivered by Dr Cosman?",
+      "answer": "3/3/82"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/48891.png",
+      "question_id": 48891,
+      "question": "What is the title of the document?",
+      "answer": "charter of incorporation and by-laws"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/33081.png",
+      "question_id": 33081,
+      "question": "What is the name of the applicant?",
+      "answer": "Neuhauser, Linda A."
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/28861.png",
+      "question_id": 28861,
+      "question": "What is the document title?",
+      "answer": "Public Voucher for Purchases and Services Other Than Personal"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/28864.png",
+      "question_id": 28864,
+      "question": "What is the Contract No.?",
+      "answer": "DA-49-007-MD-1024"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/13329.png",
+      "question_id": 13329,
+      "question": "Why this meeting is held in Bessemer?",
+      "answer": "to plan ways to protect smokers' rights"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/10786.png",
+      "question_id": 10786,
+      "question": "what is mentioned in the  MGMT ACCT.# ?",
+      "answer": "110450828"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/11546.png",
+      "question_id": 11546,
+      "question": "What is the date mentioned in the fax sheet?",
+      "answer": "August 11, 1997"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/17410.png",
+      "question_id": 17410,
+      "question": "What should be provided?",
+      "answer": "birthdate and signature"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/48672.png",
+      "question_id": 48672,
+      "question": "what is the full form of IARW?",
+      "answer": "international association of refrigerated warehouses"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/49059.png",
+      "question_id": 49059,
+      "question": "Who is the Board Chairman?",
+      "answer": "Dr. Emil M. Mrak"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/49060.png",
+      "question_id": 49060,
+      "question": "Who all participated for the may 14 meeting?",
+      "answer": "THE TRRF BOARD OF GOVERNORS AND SCIENTIFIC ADVISORY COUNCIL"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/49062.png",
+      "question_id": 49062,
+      "question": "Who is Edward Simons?",
+      "answer": "Consulting Engineer"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/26746.png",
+      "question_id": 26746,
+      "question": "to whom this letter is written to?",
+      "answer": "Bob"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/16163.png",
+      "question_id": 16163,
+      "question": "What is the date on the stamp?",
+      "answer": "16 Dec 1989"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/54452.png",
+      "question_id": 54452,
+      "question": "as per the U.S. patent what leaves can be used as tobacco substitutes?",
+      "answer": "sunflower and rhubarb leaves"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/54460.png",
+      "question_id": 54460,
+      "question": "what is the first reason these efforts failed?",
+      "answer": "most substitues were unable to provide satisfactory taste"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/49425.png",
+      "question_id": 49425,
+      "question": "what is the heading?",
+      "answer": "state epidemiologists and state laboratory directors"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/28704.png",
+      "question_id": 28704,
+      "question": "What is the Flight Number?",
+      "answer": "112"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/29432.png",
+      "question_id": 29432,
+      "question": "what the cardmember acct. no?",
+      "answer": "080 783 302 5 100AX"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/29435.png",
+      "question_id": 29435,
+      "question": "what is card name?",
+      "answer": "american express card"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/29388.png",
+      "question_id": 29388,
+      "question": "What is the name of the hotel?",
+      "answer": "PLAZA INTERNATIONAL HOTEL"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/35145.png",
+      "question_id": 35145,
+      "question": "What is the date & time mentioned in this document?",
+      "answer": "11 Mar 2002 04:42"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/17648.png",
+      "question_id": 17648,
+      "question": "What is the document title?",
+      "answer": "NASCAR Winston Cup Series"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/17424.png",
+      "question_id": 17424,
+      "question": "what is the name of the series ?",
+      "answer": "NASCAR Winston Cup Series"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/42018.png",
+      "question_id": 42018,
+      "question": "Who can bring out the best in everyone?",
+      "answer": "A great leader"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/42019.png",
+      "question_id": 42019,
+      "question": "What does a great leader bring out?",
+      "answer": "the best in everyone"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/33151.png",
+      "question_id": 33151,
+      "question": "What is the fullform of aspen?",
+      "answer": "American Society for Parenteral and Enteral Nutrition"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/33037.png",
+      "question_id": 33037,
+      "question": "What is the ultimate goal for all ASPEN members?",
+      "answer": "\"the provision of optimal nutrition to all people under all conditions at all times.\""
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/32041.png",
+      "question_id": 32041,
+      "question": "what is the date mentioned?",
+      "answer": "10/17/1979"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/32042.png",
+      "question_id": 32042,
+      "question": "what is the country name of the currency?",
+      "answer": "AUSTRALIA"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/32044.png",
+      "question_id": 32044,
+      "question": "What is the rate?",
+      "answer": "114"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/31902.png",
+      "question_id": 31902,
+      "question": "What is written in the letter head ?",
+      "answer": "THE JOHNS HOPKINS UNIVERSITY SCHOOL OF MEDICINE"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/31825.png",
+      "question_id": 31825,
+      "question": "what is the total due?",
+      "answer": "$ 20.50"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/31828.png",
+      "question_id": 31828,
+      "question": "what is date and year mentioned in the document ?",
+      "answer": "October 1, 1979"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/52040.png",
+      "question_id": 52040,
+      "question": "What is the symposium organized by Division of Agricultural and Food Chemistry?",
+      "answer": "Symposium on Marketing and Economic Aspects of New Protein Ventures"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/8256.png",
+      "question_id": 8256,
+      "question": "What is written in the Promotion Production Field  ?",
+      "answer": "joe leinster"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/23674.png",
+      "question_id": 23674,
+      "question": "What is the Exact Title ?",
+      "answer": "Physician"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/22745.png",
+      "question_id": 22745,
+      "question": "What is the Home Address Number ?",
+      "answer": "7059"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/23054.png",
+      "question_id": 23054,
+      "question": "what is the name mentioned",
+      "answer": "Robert Stephen Levine"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/13089.png",
+      "question_id": 13089,
+      "question": "What is the Title of the document ?",
+      "answer": "sales materials system order completion"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/10463.png",
+      "question_id": 10463,
+      "question": "who is dealing with systems and GATX overview?",
+      "answer": "Vanessa Oakley/ Chris Gunzenhauser"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/4985.png",
+      "question_id": 4985,
+      "question": "In which Factory is the analysis conducted?",
+      "answer": "Longmont Factory"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/52683.png",
+      "question_id": 52683,
+      "question": "Which company's fax transmission is this?",
+      "answer": "RJ Reynolds Tobacco Company"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/27677.png",
+      "question_id": 27677,
+      "question": "what is the reason for increase in grant amounts?",
+      "answer": "Heinz - Penn State and Pittsburgh Grants"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/16899.png",
+      "question_id": 16899,
+      "question": "Who is the audience of \"Body of Evidence\"?",
+      "answer": "Women's health care"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/16901.png",
+      "question_id": 16901,
+      "question": "What is Premarin Key messages of AACE?",
+      "answer": "Uniqueness of Premarin; Patient counselling and management"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/17296.png",
+      "question_id": 17296,
+      "question": "What are the PREMARIN Key Messages for AANP?",
+      "answer": "Patient Counseling and Management; Benefits and Risks"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/57699.png",
+      "question_id": 57699,
+      "question": "What is the full form of FIGO?",
+      "answer": "Federation of International Gynecology and Obstetrics World Congress"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/57700.png",
+      "question_id": 57700,
+      "question": "What is the full form of SERM?",
+      "answer": "selective estrogen receptor modulator"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/15642.png",
+      "question_id": 15642,
+      "question": "When is the Meeting \"NAMS (North American Menopause Society)?",
+      "answer": "September 19-23, 2003"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/15645.png",
+      "question_id": 15645,
+      "question": "What does ASRM stand for?",
+      "answer": "american society of reproductive medicine"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/15649.png",
+      "question_id": 15649,
+      "question": "What does NAMS stand for?",
+      "answer": "North american menopause society"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/16536.png",
+      "question_id": 16536,
+      "question": "What is the Abbreviation for ACOG ?",
+      "answer": "American College of Obstetricians and Gynecologists"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/16544.png",
+      "question_id": 16544,
+      "question": "What is the Meeting Date for SGI ?",
+      "answer": "March 24-27, 2004"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/16545.png",
+      "question_id": 16545,
+      "question": "What is the Abbreviation for SGI?",
+      "answer": "Society for Gynecologic Investigation"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/16548.png",
+      "question_id": 16548,
+      "question": "What is the Abbreviation for ACP ?",
+      "answer": "American College of Physicians"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/16578.png",
+      "question_id": 16578,
+      "question": "What is the Abbreviation for IOF ?",
+      "answer": "International Osteoporosis Foundation"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/16588.png",
+      "question_id": 16588,
+      "question": "What is the Abbreviation for NBNA ?",
+      "answer": "National Black Nurses Association"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/16597.png",
+      "question_id": 16597,
+      "question": "When is the Meeting Date for NBNA ?",
+      "answer": "August 7-10, 2004"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/48442.png",
+      "question_id": 48442,
+      "question": "What is the Contract period?",
+      "answer": "April 1, 1987 - March 31, 1990"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/52107.png",
+      "question_id": 52107,
+      "question": "What is the key issue?",
+      "answer": "How to Break Newport's Peer Infuence Dynamics? - Short & Longer Term"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/26037.png",
+      "question_id": 26037,
+      "question": "what is the name of the university",
+      "answer": "WASHINGTON UNIVERSITY"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/28917.png",
+      "question_id": 28917,
+      "question": "Which society is mentioned?",
+      "answer": "the society for experimental biology and medicine"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/47789.png",
+      "question_id": 47789,
+      "question": "what is the date mentioned in the given form ?",
+      "answer": "OCTOBER 10, 1973"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/7955.png",
+      "question_id": 7955,
+      "question": "When is Atlanta Tribune Golf Tournament ?",
+      "answer": "1 june,  1998"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/7957.png",
+      "question_id": 7957,
+      "question": "Where is Atlanta Tribune Golf Tournament going to be held ?",
+      "answer": "lake lanier islands"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/12606.png",
+      "question_id": 12606,
+      "question": "What is the comment written ?",
+      "answer": "Two Acid Trap"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/3359.png",
+      "question_id": 3359,
+      "question": "What is the Heading of the document ?",
+      "answer": "UNITED   STATES   BEET   SUGAR   ASSOCIATION"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/58075.png",
+      "question_id": 58075,
+      "question": "\"Effects of various treatments on\" which symptoms are mentioned here?",
+      "answer": "vasomotor"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/58077.png",
+      "question_id": 58077,
+      "question": "What is the heading given to the second column of the \"Table\"?",
+      "answer": "Effective in treating Hot Flushes vs Placebo"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/51579.png",
+      "question_id": 51579,
+      "question": "What is the designation of Mr. Robert R. Owen?",
+      "answer": "President of the Great Western Sugar Company"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/29626.png",
+      "question_id": 29626,
+      "question": "What type of instruction is given to school age children in this program?",
+      "answer": "anti-smoking, weight control and exercise"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/28555.png",
+      "question_id": 28555,
+      "question": "what is the address of St. Louis Children's Hospital?",
+      "answer": "500 SOUTH KINGSHIGHWAY ST LOUIS, MISSOURI 63110"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/39149.png",
+      "question_id": 39149,
+      "question": "What does PTI stand for?",
+      "answer": "Professional Telemarketing Inc."
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/37473.png",
+      "question_id": 37473,
+      "question": "What is the Objective?",
+      "answer": "To develop emerging thought leaders as advocates of Parke-Davis and its CNS products"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/37493.png",
+      "question_id": 37493,
+      "question": "What is the Objective?",
+      "answer": "To increase awareness of Neurontin's efficacy in the treatment of diabetic neuropathy"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/3414.png",
+      "question_id": 3414,
+      "question": "what is the name of the hotel ?",
+      "answer": "buffalo inn motor hotel & restaurant"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/40245.png",
+      "question_id": 40245,
+      "question": "what is the heading mentioned in the given page ?",
+      "answer": "TORT ACTIONS BASED ON IMPROPER HEALTH CARE"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/28938.png",
+      "question_id": 28938,
+      "question": "what represents Y- axis of the graph?",
+      "answer": "Audit Results by Percentage"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/63654.png",
+      "question_id": 63654,
+      "question": "What is the last column heading of the table?",
+      "answer": "Weighted Mean"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/13696.png",
+      "question_id": 13696,
+      "question": "who is the vice president & Secretary ?",
+      "answer": "Kamal K gupta"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/50470.png",
+      "question_id": 50470,
+      "question": "Whose advertisement is this ?",
+      "answer": "ESSO IMPERIAL OIL LIMITED"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/12324.png",
+      "question_id": 12324,
+      "question": "What is the \"start time\" for \"Remote station\" \"01245 608081\"?",
+      "answer": "8-31-99 4:11PM"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/13128.png",
+      "question_id": 13128,
+      "question": "What is the chain name?",
+      "answer": "CUMBERLAND FARMS (EXCEPT FLORIDA)"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/12904.png",
+      "question_id": 12904,
+      "question": "What is the reason given?",
+      "answer": "Analysis and or evaluation"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/8370.png",
+      "question_id": 8370,
+      "question": "what is the name of project?",
+      "answer": "project MM Non-MS curr. test remail solicitation"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/22061.png",
+      "question_id": 22061,
+      "question": "What is the beginning date for first year?",
+      "answer": "Jan. 1 1985"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/2045.png",
+      "question_id": 2045,
+      "question": "Who hosted Mountain State Annual Meeting?",
+      "answer": "the Loveland and Ft. Collins Locals"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/10844.png",
+      "question_id": 10844,
+      "question": "What is the Response Factor used for quantitation?",
+      "answer": "the average of the individual Response Factors"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/52644.png",
+      "question_id": 52644,
+      "question": "Who is it \"From\"?",
+      "answer": "E. Ganschaw"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/48877.png",
+      "question_id": 48877,
+      "question": "what is the received date mentioned ?",
+      "answer": "NOV 5 1971"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/29012.png",
+      "question_id": 29012,
+      "question": "Which board is mentioned?",
+      "answer": "national board of medical examiners"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/2453.png",
+      "question_id": 2453,
+      "question": "where is the location of study conducted ?",
+      "answer": "Bay Farm, Fort Collins, Colorado"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/2447.png",
+      "question_id": 2447,
+      "question": "which treatments will be applied as topical sprays when sugarbeets have 4 and 8 true leaves respectively?",
+      "answer": "The postemergent herbicide and herbistat treatments"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/26819.png",
+      "question_id": 26819,
+      "question": "Which society is mentioned?",
+      "answer": "St. Louis Medical Society"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/47588.png",
+      "question_id": 47588,
+      "question": "what is the heading for first column?",
+      "answer": "town or transit no. of drawee bank"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/53412.png",
+      "question_id": 53412,
+      "question": "Which facility is used?",
+      "answer": "RJR TAG"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/24793.png",
+      "question_id": 24793,
+      "question": "What is the date mentioned in the bill?",
+      "answer": "4/19/78"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/24795.png",
+      "question_id": 24795,
+      "question": "What is the Fund Number?",
+      "answer": "59121"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/39435.png",
+      "question_id": 39435,
+      "question": "What is the Purpose of the trip mentioned in the report?",
+      "answer": "to attend meeting of Food Industries Advisory Committee Nutrition Foundation"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/39441.png",
+      "question_id": 39441,
+      "question": "What is the train fare expense mentioned in the document?",
+      "answer": "$ 4.00"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/54827.png",
+      "question_id": 54827,
+      "question": "What is the name of the two persons mentioned in the document?",
+      "answer": "j. robinson and m. roberts"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/3090.png",
+      "question_id": 3090,
+      "question": "what is the date on requisition sheet ?",
+      "answer": "October 1, 1968"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/23738.png",
+      "question_id": 23738,
+      "question": "What is the Time In?",
+      "answer": "1550"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/23742.png",
+      "question_id": 23742,
+      "question": "What is the Postage?",
+      "answer": "$9-35"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/13044.png",
+      "question_id": 13044,
+      "question": "Where all camera settings adjusted correctly?",
+      "answer": "yes"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/13045.png",
+      "question_id": 13045,
+      "question": "Where all necessary suppliers readily available?",
+      "answer": "Yes"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/51048.png",
+      "question_id": 51048,
+      "question": "What is the heading of the first column of the table?",
+      "answer": "Strategic Objective"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/51050.png",
+      "question_id": 51050,
+      "question": "What is the heading of the third column of the table?",
+      "answer": "Target Date Database Locked"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/1644.png",
+      "question_id": 1644,
+      "question": "IITs stands for?",
+      "answer": "Investigator Initiated Trials"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/1646.png",
+      "question_id": 1646,
+      "question": "The program which provides free products for specified time frames to physicians to gain experience",
+      "answer": "Physician Experience Programs (PEPs)"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/1647.png",
+      "question_id": 1647,
+      "question": "A study based on collection of AE data from patient charts",
+      "answer": "Post Marketing Surveillance"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/51039.png",
+      "question_id": 51039,
+      "question": "What is the strategic objective of the Clinical study 'GLAI'?",
+      "answer": "demonstrate significant lipid differences versus avandia"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/51040.png",
+      "question_id": 51040,
+      "question": "What is the strategic objective of the Clinical study 'Possible IIT (US)'?",
+      "answer": "demonstrate improvement in postprandial lipidemia"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/51033.png",
+      "question_id": 51033,
+      "question": "What is the strategic objective of the Clinical study 'GLAE'?",
+      "answer": "demonstrate improvement in SBP/DBP"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/51035.png",
+      "question_id": 51035,
+      "question": "What is the strategic oblective of the Clinical study 'TL-OPI-516'?",
+      "answer": "demonstrate prevention of secondary MI after first MI"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/50991.png",
+      "question_id": 50991,
+      "question": "What is the first Strategic Objective?",
+      "answer": "SHOW EFFECTS IN LDL PARTICLE SIZE"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/17881.png",
+      "question_id": 17881,
+      "question": "What is the document title?",
+      "answer": "Convenience Store VFM Pricing Massachusetts"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/52160.png",
+      "question_id": 52160,
+      "question": "Which product has the highest ng/cig?",
+      "answer": "MULT N. DAKOTA"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/2787.png",
+      "question_id": 2787,
+      "question": "name the factory in which the water analysis is conducted ?",
+      "answer": "Gering factory"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/3702.png",
+      "question_id": 3702,
+      "question": "What sugar is mentioned in the letter?",
+      "answer": "Brown Sugar"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/51730.png",
+      "question_id": 51730,
+      "question": "What date is seen on the seal at the top of the letter?",
+      "answer": "23 SEP 1970"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/51733.png",
+      "question_id": 51733,
+      "question": "Which  place name is seen on the seal?",
+      "answer": "ROCKFORD"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/51745.png",
+      "question_id": 51745,
+      "question": "At which place is the Great western sugar Co. located?",
+      "answer": "Denuer"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/17970.png",
+      "question_id": 17970,
+      "question": "Whats the date MARKETING DEVELOPMENT done by W. F. Bultman?",
+      "answer": "1/30/87"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/53628.png",
+      "question_id": 53628,
+      "question": "What is the Date of contract Signed?",
+      "answer": "7/1/98"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/53633.png",
+      "question_id": 53633,
+      "question": "What is the total amount mentioned in the contract?",
+      "answer": "13 356.00"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/17964.png",
+      "question_id": 17964,
+      "question": "What does NOP stand for ?",
+      "answer": "NOW Offensive Plan"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/20960.png",
+      "question_id": 20960,
+      "question": "What is written inside the circle?",
+      "answer": "Best Copy"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/17480.png",
+      "question_id": 17480,
+      "question": "What is the Phone?",
+      "answer": "956-3741"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/58094.png",
+      "question_id": 58094,
+      "question": "Which day is in the document?",
+      "answer": "Thursday"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/13014.png",
+      "question_id": 13014,
+      "question": "When is the fax dated?",
+      "answer": "3-2-98"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/2865.png",
+      "question_id": 2865,
+      "question": "When is the memorandum dated on?",
+      "answer": "March 11, 1977"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/27170.png",
+      "question_id": 27170,
+      "question": "What is the designation of DONALD M. MARCUS, M.D.?",
+      "answer": "Secretary, Albert Einstein College of Medicine"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/63682.png",
+      "question_id": 63682,
+      "question": "What is the heading of the Table ?",
+      "answer": "ADAPTATION OF CALORIE ALLOWANCE TO MEET INDIVIDUAL REQUIREMENTS"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/36185.png",
+      "question_id": 36185,
+      "question": "To which department does Robert E. Shank, M.D. belong ?",
+      "answer": "Department of preventive medicine"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/21009.png",
+      "question_id": 21009,
+      "question": "What is the heading of the document?",
+      "answer": "Food Safety Council Board of Trustees"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/21564.png",
+      "question_id": 21564,
+      "question": "What is the Title of the document?",
+      "answer": "Profiles in Nutrition"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/45284.png",
+      "question_id": 45284,
+      "question": "What is the title of the document?",
+      "answer": "Sugar is the Foundation of All Life"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/5935.png",
+      "question_id": 5935,
+      "question": "What does the brand KOOL cares more for?",
+      "answer": "smokers and constantly pursuing menthol perfection"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/41331.png",
+      "question_id": 41331,
+      "question": "What is the account symbol mentioned in the document?",
+      "answer": "PA73WBC44"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/48375.png",
+      "question_id": 48375,
+      "question": "what is the name mentioned at pay to the order of ?",
+      "answer": "THE NUTRITION FOUNDATION INC."
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/37797.png",
+      "question_id": 37797,
+      "question": "what is the title or position mentioned in the given form ?",
+      "answer": "Danforth Professor and Head of the Department of Preventive Medicine"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/26720.png",
+      "question_id": 26720,
+      "question": "What is Robert Shank's designation?",
+      "answer": "professor of preventive medicine and public health"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/29378.png",
+      "question_id": 29378,
+      "question": "Who all are presenting the session on 'Evaluation of Programs'?",
+      "answer": "David Rush, Zena Stein, Mervyn Susser"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/684.png",
+      "question_id": 684,
+      "question": "Who has written the comments?",
+      "answer": "Michael f. brown and richard l. frank"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/13155.png",
+      "question_id": 13155,
+      "question": "What is written in the Letter Head ?",
+      "answer": "DORAL BOX INTRODUCTION"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/24904.png",
+      "question_id": 24904,
+      "question": "what is the departure date mentioned in the given page ?",
+      "answer": "apr 14"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/24910.png",
+      "question_id": 24910,
+      "question": "what is the name of the passenger mentioned in the given page ?",
+      "answer": "paul saltman"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/24915.png",
+      "question_id": 24915,
+      "question": "to which university paul salt man belongs to as mentioned in the given page ?",
+      "answer": "university of california"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/25029.png",
+      "question_id": 25029,
+      "question": "When was the TRANSACTION done?",
+      "answer": "Jan. 23, 78"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/25039.png",
+      "question_id": 25039,
+      "question": "Where's the DESTINATION?",
+      "answer": "China/Orient"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/25040.png",
+      "question_id": 25040,
+      "question": "What is the travel expenses?",
+      "answer": "200.00"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/26717.png",
+      "question_id": 26717,
+      "question": "Which is the place mentioned on the stamp?",
+      "answer": "minneapolis"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/63071.png",
+      "question_id": 63071,
+      "question": "Who all assembled in congress?",
+      "answer": "SENATE AND HOUSE OF REPRESENTATIVES OF THE UNITED STATES OF AMERICA"
+    }
+  },
+  {
+    "data": {
+      "image": "http://127.0.0.1:8000/train/28475.png",
+      "question_id": 28475,
+      "question": "what is the address of The American Academy of Family Physicians?",
+      "answer": "1740 WEST 92ND STREET KANSAS CITY, MISSOURI 64114"
+    }
+  }
+]

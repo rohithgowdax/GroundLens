@@ -1,0 +1,42 @@
+name: PyTest
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+
+    - name: Free up disk space
+      run: |
+        sudo rm -rf /usr/share/dotnet
+        sudo rm -rf /opt/ghc
+        sudo rm -rf /usr/local/share/boost
+        sudo rm -rf "$AGENT_TOOLSDIRECTORY"
+        df -h
+
+    - name: Install dependencies for tests
+      run: |
+        pip install pytest pytest-cov pytest-xdist
+        pip install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+        pip install transformers datasets
+        pip install numpy pandas rapidfuzz pillow
+
+    - name: Run tests with pytest
+      run: |
+        pytest tests/ -v --tb=short -m "not slow"
